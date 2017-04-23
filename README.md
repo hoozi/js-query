@@ -1,6 +1,6 @@
 # js-query
 
-# Usage
+## Usage
 ```javascript
 getQueryString() //e.g. ?a=1&b=2
 //['a=1' ,'b=2']
