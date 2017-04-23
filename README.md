@@ -1,4 +1,5 @@
 # js-query
+获取url的query string
 
 ## Usage
 ```javascript
